@@ -1,6 +1,6 @@
 # Payment-Gateway-Integration
 
-TSG GRIP Task 3 under Web and Mobile development Tasks
+TSF GRIP Task 3 under Web and Mobile development Tasks
 
 Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
 
